@@ -1,0 +1,18 @@
+[
+  {"day": "2026-09-08", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "New customers", "shop_campaign_ad_spend": "129.718", "shop_campaign_sales": "295.272", "shop_campaign_customers": "3"},
+  {"day": "2026-09-08", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "All other customers", "shop_campaign_ad_spend": "34.077", "shop_campaign_sales": "85.005", "shop_campaign_customers": "1"},
+  {"day": "2026-09-08", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "Lapsed - 3 months", "shop_campaign_ad_spend": "140.879", "shop_campaign_sales": "384.615", "shop_campaign_customers": "3"},
+  {"day": "2026-09-09", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "New customers", "shop_campaign_ad_spend": "82.609", "shop_campaign_sales": "199.488", "shop_campaign_customers": "2"},
+  {"day": "2026-09-09", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "All other customers", "shop_campaign_ad_spend": "34.371", "shop_campaign_sales": "85.429", "shop_campaign_customers": "1"},
+  {"day": "2026-09-10", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "New customers", "shop_campaign_ad_spend": "42.982", "shop_campaign_sales": "89.209", "shop_campaign_customers": "1"},
+  {"day": "2026-09-10", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "All other customers", "shop_campaign_ad_spend": "70.107", "shop_campaign_sales": "172.648", "shop_campaign_customers": "2"},
+  {"day": "2026-09-11", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "New customers", "shop_campaign_ad_spend": "42.451", "shop_campaign_sales": "98.487", "shop_campaign_customers": "1"},
+  {"day": "2026-09-11", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "All other customers", "shop_campaign_ad_spend": "68.063", "shop_campaign_sales": "188.074", "shop_campaign_customers": "2"},
+  {"day": "2026-09-11", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "Lapsed - 3 months", "shop_campaign_ad_spend": "139.725", "shop_campaign_sales": "342.989", "shop_campaign_customers": "3"},
+  {"day": "2026-09-12", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "New customers", "shop_campaign_ad_spend": "209.403", "shop_campaign_sales": "563.741", "shop_campaign_customers": "5"},
+  {"day": "2026-09-13", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "New customers", "shop_campaign_ad_spend": "82.888", "shop_campaign_sales": "208.842", "shop_campaign_customers": "2"},
+  {"day": "2026-09-13", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "All other customers", "shop_campaign_ad_spend": "69.203", "shop_campaign_sales": "170.674", "shop_campaign_customers": "2"},
+  {"day": "2026-09-14", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "New customers", "shop_campaign_ad_spend": "42.424", "shop_campaign_sales": "106.046", "shop_campaign_customers": "1"},
+  {"day": "2026-09-14", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "All other customers", "shop_campaign_ad_spend": "140.563", "shop_campaign_sales": "327.890", "shop_campaign_customers": "4"},
+  {"day": "2026-09-14", "shop_campaign_name": "Shop Campaign - Always On", "shop_campaign_target_name": "Lapsed - 3 months", "shop_campaign_ad_spend": "140.052", "shop_campaign_sales": "386.164", "shop_campaign_customers": "3"}
+]

@@ -1,0 +1,30 @@
+# Copy to config.yaml and fill in. config.yaml is git-ignored; it holds ids, never secrets.
+
+gcp:
+  project_id:      my-gcp-project
+  region:          europe-west1
+  service_account: tw-importer@my-gcp-project.iam.gserviceaccount.com   # runtime + scheduler identity
+  secrets:                                    # Secret Manager ids
+    shopify_app:         shopify-shop-campaigns-app   # JSON {"client_id": "…", "client_secret": "…"}
+    triplewhale_api_key: triplewhale-api-key          # Triple Whale key with scope "Ads: Write"
+
+shopify:
+  shop: your-store.myshopify.com
+  # Use 2026-10 or newer. 2026-07 accepts the dataset but serves stale data: the latest
+  # day lags and the current day is missing, while 2026-10 matches the Shop dashboard.
+  api_version: "2026-10"
+
+triplewhale:
+  shop_id:            your-store.myshopify.com
+  channel:            Shop Campaigns    # the channel name the spend appears under
+  channel_account_id: shop-campaigns    # part of the upsert key: do not change once live
+  currency:           USD               # ShopifyQL money is in the store's base currency
+
+import:
+  # Re-sent on every run. Shop attributes a customer to the last paid click within
+  # 7 days, so 14 leaves room for restatements.
+  lookback_days: 14
+
+schedule:
+  cron:      "15 */6 * * *"
+  time_zone: UTC
