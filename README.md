@@ -6,7 +6,8 @@ CAC and blended metrics like every other channel.
 Part of a family of Triple Whale connectors that share one layout and one Data-In client:
 [triplewhale-shop-campaigns](https://github.com/pfiecko/triplewhale-shop-campaigns) ·
 [triplewhale-roku-ads](https://github.com/pfiecko/triplewhale-roku-ads) ·
-[triplewhale-openai-ads](https://github.com/pfiecko/triplewhale-openai-ads)
+[triplewhale-openai-ads](https://github.com/pfiecko/triplewhale-openai-ads) ·
+[triplewhale-gravity-ads](https://github.com/pfiecko/triplewhale-gravity-ads)
 
 ## The problem
 
